@@ -1,11 +1,13 @@
 # snpview
 
 *INSTALL*
+```
 sudo apt-get install libncurses5-dev
 cd samtools-0.1.19
 make
 cd ..
 make
+```
 
 *USAGE*
 ```
